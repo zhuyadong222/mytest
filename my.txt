@@ -1,2 +1,9 @@
-范德萨
-范德萨
+public Class Test{
+
+	public void main(String[] args){
+	
+		System.out.println("hello world");
+	
+	}
+
+}
